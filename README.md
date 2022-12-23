@@ -6,9 +6,9 @@ Cinema made its debut in the late 19th century and has become a multibillion-dol
 We will analyze movies from some of the largest film industries (aka the Big Five) - namely the United States, India, United Kingdom, Japan, and France - from the 1950s to the 2010s.
 
 Our saga happens in 4 installments. In [Selecting the data](/data) we show what data we explore during this journey.
-In [Diversity analysis of actors](/diversity) we take a look at diversity across industries.
+In [Diversity analysis of actors](diversity) we take a look at diversity across industries.
 We answer the question of how movie durations might differ in [How long will I be in the theater](/duration).
-Finally, in [A deeper look at movie summaries](/nlp) we use NLP techniques to discover common trends.
+Finally, in [A deeper look at movie summaries](nlp.md) we use NLP techniques to discover common trends.
 
 So, what are the differences between the largest movie industries and how have they changed over time?
 Let the ~~movie~~ data story begin!
