@@ -12,7 +12,7 @@ To answer our research question on how plots are structured and if they differ a
 Let's study the words used in formulating the plot summaries and starting by viewing the general word usage across all plots. 
 ![word cloud all](assets/img/wordcloudall.png)
 hmm !! okay now from where are these words comming from 
-<iframe src="https://giphy.com/embed/7kFiPRhn3aDYs" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mrw-oc-informs-7kFiPRhn3aDYs">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/7kFiPRhn3aDYs" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mrw-oc-informs-7kFiPRhn3aDYs"></a></p>
 
 ### Across decades
 ![word cloud 50](assets/img/50sword.png)
@@ -23,4 +23,11 @@ hmm !! okay now from where are these words comming from
 ![word cloud 200](assets/img/2000swords.png)
 ![word cloud 2010](assets/img/2021sword.png)
 
-From ploting the wordcloud, we can make notice that he movies in the 50s, 60s, 70s are containing more action related words like escape, kill, dead where the 2000s are more into relationships and drama. We can investigate that further by excluding articles and common **empty** words and plot
+From ploting the wordcloud, we can make notice that he movies in the 50s, 60s, 70s are containing more action related words like escape, kill, dead where the 2000s are more into relationships and drama. We can investigate that further by excluding articles and common **empty** words and plot.
+This is confirmed more once check the standirized distributions of top 20 words. 
+![decade](assets/img/decadedist.png)
+
+### Across industries
+To make it brief and not to scroll endlessly in this page, we show directly the distribution of 40 most common words across the industries 
+![40com](assets/img/40mostcom.png)
+We notice one obvious result is that the indian industry is based around love and family relationship => Drama. For france, it is a mixture btween drama linked words/ crime. This will be more visible once analyzing the genres
