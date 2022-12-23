@@ -1,9 +1,7 @@
-theme: jekyll-theme-minimal
-title: ADA Template Website
-description: A template website for ADA
+theme: jekyll-theme-cayman
+title: Globywood
+description: The story of movie industries across time.
 show_downloads: True
 navigation:
   - title: Home
     url: /
-  - title: Example
-    url: example
