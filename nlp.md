@@ -69,3 +69,5 @@ Doing the same across the genres for the same decade showed that sementacilly th
 We can see it for example for the case of the 2000's
 ![genrets](assets/img/genretsne.png)
 
+Performing the analysis across genres showed interesting results when it came to the drama genres, each industry has its own specifcations.
+![dramatsne](assets/img/dramatsne.png)
