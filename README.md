@@ -1,3 +1,5 @@
+![posters](assets/img/posters.jpg)
+
 # Introduction
 
 Cinema made its debut in the late 19th century and has become a multibillion-dollar industry, distributed over many different countries, and therefore made subject to distinct cultures and trends. Using the CMU Movie Summary Corpus, a collection of 42.306 movie plot summaries extracted from Wikipedia, aligned with movie and character metadata, we take a trip through time to take a look at these trends and how they have (or have not) differed across the world.

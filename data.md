@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![data meme](assets/img/data-meme.png)
+
 # Selecting the data
 
 This project uses the CMU Movie Summary Corpus, a collection of 42.306 movie plot summaries extracted from Wikipedia.
