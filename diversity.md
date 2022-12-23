@@ -56,16 +56,45 @@ Given that these populations are in general shorter and taller respectivelly, it
 
 ![height predictors](assets/img/height-regression.png)
 
-## Ethnicity
-
-![ethnicity distribution](assets/img/ethnicities-distribution.png)
+Let's take a look at the final category of diversity, ethnicities among actors.
+The majority of top actor ethnicities are native to the industry's country:
 
 ![ethnicity groups](assets/img/ethnicities-groups.png)
 
-## Actor diversity
+As seen in the figure above, analyzing the diversity in ethnicities is not trivial.
+A couple of ethnicities may overlap or include others (e.g. British people vs White British).
+Our conclusions about ethnicity diversity will therefore be less strong than the former attributes.
 
-![diversity analysis](assets/img/ethnicities-groups.png)
+But let's give it a try and analyze diversity among ethnicities.
+The ratio between number of ethnic groups and number actors is not a proper metric as the number of ethnic groups is finite and grows slower whereas the number of actors could grow much faster. 
+We will therefore lean on a measure similar to the *ethno-lingustic fractionalization index* from the book: *New Approaches to the Dynamics, Measurement and Economic Implications of Ethnic Diversity by Philipp Kolo*.
+That is, the ratio between the number of ethnic groups and the total number of ethnic groups, namely [650 according to a survey in 2002](https://www.washingtonpost.com/news/worldviews/wp/2013/05/16/a-revealing-map-of-the-worlds-most-and-least-ethnically-diverse-countries/):
 
-![diversity countries](assets/img/ethnicities-distribution.png)
+![ethnicity distribution](assets/img/ethnicities-distribution.png)
+
+We can clearly see an upwards trend in ethnicity representation.
+The US has the highest ratio whereas Japan has the lowest one.
+But as the following graphic shows, the ratio has increased over time in every country:
+
+![ethnicity decades](assets/img/ethnicities-decades.png)
+
+Note that in both cases, the 2010 decade is an anomaly as it only includes movies up to 2013, and is missing 7 years of that epoch.
+
+
+## Conclusion
+
+We have seen gender representation with France and Japan taking the lead, age and height diversity increasing globally, and highest diversity of actor ethnicities in the US.
+By combining the four metrics together into one diversity metric, we can draw our final conclusion on actor diversity across the industries:
+
+
+![diversity countries](assets/img/diversity-countries.png)
+
+
+Discarding the data from 2010 (missing 7 years), the US has the highest diversity of actors followed by France.
+India has the lowest diversity which stagnated since the 70's. 
+To conclude, while some countries are further than others, **diversity in the movie industry is on the rise and shows no sign of stopping**:
+
+![diversity analysis](assets/img/diversity-analysis.png)
+
 
 
