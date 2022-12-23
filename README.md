@@ -1,9 +1,11 @@
-# ADA Template Website
-## Usage
-1. Fork (copy) this repository by clicking the "Fork" button on the top right corner.
-2. Go to "Settings" -> "Pages" in your forked repository. Under "Branch" change "None" to "master" and click "Save".
-3. Edit the `_config.yml` file in your forked repository to change the site title (after `title:`) and description (after `description:`).
-4. Build your own page by editing this `README.md` (home page) and creating new `.md` files (other pages), formatting is done with standard [GitHub Markdown syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax), we provide an example file `example.md` in the repository.
-**Important**: Please include ```--- layout: default ---``` (the first three line in `example.md`) at the beginning of your every newly created `.md` file.
-5. Add your new `.md` files to the site by editing the `_config.yml` file in your forked repository. Under `navigation:` add a new pair of `- title:` and `url:`, and fill their value with your page name and `.md` file name. Remember to remove the `- title:` and `url:` pair for the example page.
-6. Go back to "Settings" -> "Pages" to find your website link.
+# Introduction
+
+Cinema made its debut in the late 19th century and has become a multibillion-dollar industry, distributed over many different countries, and therefore made subject to distinct cultures and trends. Using the CMU Movie Summary Corpus, a collection of 42.306 movie plot summaries extracted from Wikipedia, aligned with movie and character metadata, we take a trip through time to take a look at these trends and how they have (or have not) differed across the world.
+We will analyze movies from some of the largest film industries (aka the Big Five) - namely the United States, India, United Kingdom, Japan, and France - from the 1950s to the 2010s. However, many movies are combined production of more than one country. For the purpose of our analysis, we will only explore movies coming from single country.
+
+Our saga happens in 4 installments. In [Selecting the data](/data) we show what data we explore during this journey.
+In [Diversity analysis of actors](/diversity) we take a look at diversity across industries.
+We answer the question of how movie durations might differ in [How long will I be in the theater](/duration).
+Finally, in [A deeper look at movie summaries](/nlp) we use NLP techniques to discover common trends.
+
+Let the ~~movie~~ data story begin!

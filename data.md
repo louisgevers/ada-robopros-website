@@ -2,4 +2,6 @@
 layout: default
 ---
 
-Hello data
+# Selecting the data
+
+![country distribution](./assets/img/data-source.png)
