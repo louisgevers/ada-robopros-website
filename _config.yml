@@ -12,3 +12,5 @@ navigation:
     url: /duration
   - title: A deeper look at movie summaries
     url: /nlp
+github:
+  - is_project_page: False
