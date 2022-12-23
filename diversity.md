@@ -96,5 +96,4 @@ To conclude, while some countries are further than others, **diversity in the mo
 
 ![diversity analysis](assets/img/diversity-analysis.png)
 
-
-
+Dicover how India differs from other industries again in [the next section](/duration.md)!
