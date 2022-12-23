@@ -1,7 +1,14 @@
 theme: jekyll-theme-cayman
 title: Globywood
 description: The story of movie industries across time.
-show_downloads: True
 navigation:
-  - title: Home
+  - title: Introduction
     url: /
+  - title: Selecting the data
+    url: /data
+  - title: Diversity analysis of actors
+    url: /diversity
+  - title: How long will I be in the theater?
+    url: /duration
+  - title: A deeper look at movie summaries
+    url: /nlp
